@@ -1,20 +1,27 @@
+![Linkedin_Cover_-_Data_Scientist_py4mog](https://user-images.githubusercontent.com/99672298/186088252-ef41cefc-cda7-49e8-960d-efbd59d3696c.jpg)
+
 <h1 align="center">Hi 👋, I'm Harshvardhan</h1>
-<h3 align="center">A passionate Python Developer from India</h3>
-
-
+<h3 align="center">A passionate Data Scientist Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh2472&label=Profile%20views&color=0e75b6&style=flat" alt="harsh2472" /> </p>
 
 - 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 📫 How to reach me **bharshvardhan4@gmail.com**
+- 👯 I’m looking to collaborate on **All the topic related to Data Science and Machine Learning**
+
+- 📝 I currently mastering on [Python, Tableau, R, MySQL, Azure, Apache Spark, Hadoop, SAS, Artificial intellegence and Deep learning](Python, Tableau, R, MySQL, Azure, Apache Spark, Hadoop, SAS, Artificial intellegence and Deep learning)
+
+- 💬 Ask me about **Data Science and Machine Learning**
+
+- 📫 You can reach me on my mail id **bharshvardhan4@gmail.com**
 
 - ⚡ Fun fact **I thik I am more Representative 👋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/harshvardhan-borsure-b7a3a7206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/harshvardhan-borsure-b7a3a7206" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh2472&show_icons=true&locale=en" alt="harsh2472" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh2472&" alt="harsh2472" /></p>
+
